@@ -60,17 +60,17 @@ This project is a **Motivational Coach Chatbot Agent** built using [LangChain](h
 
 ### 3. Install Requirements
 
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 ---
 
 ### 4. Set Up .env File
 
-GOOGLE_API_KEY=your_google_api_key
-TAVILY_API_KEY=your_tavily_api_key  # optional
-GROQ_API_KEY=your_groq_api_key
-LANGCHAIN_API_KEY=your_langchain_api_key
-LANGCHAIN_PROJECT=your_langchain_project_name
+ LANGCHAIN_API_KEY=your_langchain_api_key
+ 
+ GOOGLE_API_KEY=your_google_api_key
+ 
+ GROQ_API_KEY=your_groq_api_key
 
 ---
 
