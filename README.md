@@ -44,8 +44,9 @@ This project is a **Motivational Coach Chatbot Agent** built using [LangChain](h
 
 ### 1. Clone the Repository
 
-git clone https://github.com/gurmeet289/motivational-coach-chatbot.git
-cd motivational-coach-chatbot
+ git clone https://github.com/gurmeet289/MotivAgent---Custom-Agent-Loop.git
+ 
+ cd MotivAgent---Custom-Agent-Loop
 
 ---
 
