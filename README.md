@@ -52,8 +52,9 @@ This project is a **Motivational Coach Chatbot Agent** built using [LangChain](h
 
 ### 2. Create and Activate Environment
 
-conda create -p venv python=3.10 -y
-conda activate venv
+ conda create -p venv python=3.10 -y
+ 
+ conda activate venv
 
 ---
 
